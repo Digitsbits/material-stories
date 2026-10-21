@@ -1,0 +1,1 @@
+{"name":"material-stories","version":"1.0.0","private":true,"type":"module","description":"An original fictional interiors portfolio and local material-board studio","scripts":{"dev":"node scripts/serve.mjs","build":"node scripts/build.mjs","test":"node --test"},"engines":{"node":">=22"}}
